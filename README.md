@@ -1,1 +1,12 @@
 # cc-api
+How to install
+steps run with android (Termux) : 
+1. type "pkg update && upgrade"
+ 2. type "pkg install php"
+ 3. navigate to where you saved the file. example: I menaru in the download folder, so the command word:
+ - cd storage
+ - cd downloads 
+- cd cc-cli
+ 4. then run the program type "php cc-cli.php"
+
+--- Enjoy ----
