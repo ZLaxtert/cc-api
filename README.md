@@ -10,3 +10,9 @@ steps run with android (Termux) :
  4. then run the program type "php cc-cli.php"
 
 --- Enjoy ----
+
+Follow us!
+
+t.me/BlackNetID
+t.me/zlaxtert
+
