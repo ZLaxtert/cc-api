@@ -8,7 +8,7 @@ steps run with android (Termux) :
  - cd downloads 
 - cd cc-cli
  4. then run the program type "php cc-cli.php"
-
+5. Past your cc list in the (list.txt)
 --- Enjoy ----
 
 Follow us!
